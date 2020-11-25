@@ -23,7 +23,7 @@ The database design for the passiveincome app involved the creating of a databas
 With the aforementioned terms having been defined, the structure of the database can consequently be discussed. Overall, the database design was carried out in the following steps which provide a general overview of each step taken:
 > 1)	The usage of the “CREATE DATABASE” statement to create a database with the name of “passive_income_db.
 > 2)	The usage of the “USE passive_income_db;” statement to tell MySQL to use the passive_income_db as the current database for subsequent statements. 
-<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	In other words, the “USE” statement is used to select a database and perform SQL operations into that database. 
 
 <hr>
