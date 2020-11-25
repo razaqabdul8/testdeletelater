@@ -3,9 +3,13 @@
 ![License](https://img.shields.io/badge/License-ISC-blue.svg "License Badge")
 
 # Description
+   <p>
     The <em>Passive Income</em> application is a platform which seeks to allow its users to operate from a certain vantage point in regards to price differences that are captured as the net pay-off from a given trade or transcation, in this case, any such transaction regarding iPhones. The application, as it stands, considers the modicum of iPhones that are sold through the retailers of the mutinational technology company of Amazon and the multinational e-commerce coroporation of eBay.   Theoretically, the concept of the <em>Passive Income</em> application can be expanded to include as many such retailers as desirable, and in effect, the theory of <i>arbitrage</i>, off of which the entirety of the conceptual underpinnings of the application are based, support no other endeavor than that: the eventual inclusion of every such retailer under the scope of the arbitrage mechanism implemented by the given application so as to maximize the profit margins of the application users. 
+    </p>
     <br>
+    <p>
     Arbitrage opportunities are ones off of which an investor, in this cause our application users, can make a risk-less profit via the exploitation of price differences caught in different markets for identical goods. Widgets that, for instance, go for $1 in abcville and go, insetad, for $2 in xyzville, can be bought in copious quantities in abcville and immedtiately sold in xyzville for a secure, immediate, and healthy profit. If not for capitalistic ventures, profit is still considerably made in the form of savings that the user reclaims in the mere act of buying something for as cheap as possible, insofar as all the considered retailers are included under the scope of the given artbirage application. In the world markets of today, these opportunities vanish quickly and computers, as well as applications such as our own <em>Passive Income</em>, recognize these price differences and thus execute arbitrage strategies with a rapidity only possible through feats of computation. It is one such simple aribitrage mechanism that is employed through the <em>Passive Income</em> application which, as beneficial as it already is to any user, can only, and endlessley, be made more useful through a simple concatenation of its pre-programmed and extant core elements alone, without the necessitation for the inclusion of any extraenous conceptual framework. 
+    </p>
 
 # Application Functionalities illustration video
 ![]()
