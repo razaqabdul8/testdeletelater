@@ -25,6 +25,7 @@ With the aforementioned terms having been defined, the structure of the database
 2)	The usage of the “USE passive_income_db;” statement to tell MySQL to use the passive_income_db as the current database for subsequent statements. 
 -	In other words, the “USE” statement is used to select a database and perform SQL operations into that database. 
 
+<hr>
 
 <p align="center">
   <img src="https://github.com/razaqabdul8/testdeletelater/blob/main/database%20pic.JPG?raw=true"/>
