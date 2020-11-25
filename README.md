@@ -28,6 +28,7 @@ With the aforementioned terms having been defined, the structure of the database
 
 <p align="center">
   <img src="https://github.com/razaqabdul8/testdeletelater/blob/main/database%20pic.JPG?raw=true"/>
+  <br>
   <em>Image of the schema.sql database file</em>
 </p>
 
