@@ -37,6 +37,7 @@ With the aforementioned terms having been defined, the structure of the database
 
 3)	The above series of statements are for the creation of a table called “iPhones” thatcontains five columns: id, model, asin_n, upc_n and capacity. 
 > a.	The id column is of type int, auto increment, and not null and will hold an integer. 
+<br>
 > b.	The model column is of type varchar, not null and will hold characters and the maximum length for this field is 256 characters. 
 
 # Test
