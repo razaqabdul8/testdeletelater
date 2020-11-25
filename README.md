@@ -29,7 +29,7 @@ With the aforementioned terms having been defined, the structure of the database
 <p align="center">
   <img src="https://github.com/razaqabdul8/testdeletelater/blob/main/database%20pic.JPG?raw=true"/>
   <br>
-  <em>Image of the schema.sql database file</em>
+  <em>SQL Schema showing the logical collection of database objects described</em>
 </p>
 
 3)	The above series of statements are for the creation of a table called “iPhones” thatcontains five columns: id, model, asin_n, upc_n and capacity. 
